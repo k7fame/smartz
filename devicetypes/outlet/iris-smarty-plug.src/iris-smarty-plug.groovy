@@ -13,7 +13,7 @@
  *  for the specific language governing permissions and limitations under the License.
  */
 metadata {
-	definition(name: "IRIS Smarty Plug", namespace: "Outlet", author: "Murali Kesavan", mnmn: "geniHome", 
+	definition(name: "IRIS Smarty Plug", namespace: "Outlet", author: "Murali Kesavan", mnmn: "zenForz", 
     		vid: "generic-switch-power", ocfDeviceType: "oic.d.smartplug", runLocally: true, 
             minHubCoreVersion: '000.017.0012', executeCommandsLocally: true, cstHandler: true) {
             

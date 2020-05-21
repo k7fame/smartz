@@ -34,7 +34,7 @@
  */
 
 metadata {
-	definition (name: "Opti Smoke CO Alarm", namespace: "SmartThings/Safety", author: "Murali Kesavan", mnmn: geniHome, 
+	definition (name: "Opti Smoke CO Alarm", namespace: "Safety", author: "Murali Kesavan", mnmn: "zenForz", 
 		ocfDeviceType: "oic.d.switch", runLocally: true, executeCommandsLocally: false, 
 		minHubCoreVersion: '000.017.0012') {
 		

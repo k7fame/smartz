@@ -13,7 +13,7 @@
  *  for the specific language governing permissions and limitations under the License.
  */
 metadata {
-	definition(name: "Garage Door Control", namespace: "Garage", author: "Murali Kesavan", mnmn: "geniHome", 
+	definition(name: "Garage Door Control", namespace: "Garage", author: "Murali Kesavan", mnmn: "zenForz", 
     	vid: "generic-contact-2", minHubCoreVersion: '000.017.0012', executeCommandsLocally: false, 
         ocfDeviceType: "oic.d.garagedoor", runLocally: true, cstHandler: true) {	
 

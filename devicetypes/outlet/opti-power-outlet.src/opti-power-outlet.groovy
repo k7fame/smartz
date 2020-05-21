@@ -39,9 +39,8 @@
  
 metadata {
 	// Automatically generated. Make future change here.
-	definition(name: "Opti Power Outlet", namespace: "Outlet", author: "Murali Kesavan",
-			mnmn: "geniHome", vid: "generic-switch-power", 
-            ocfDeviceType: "oic.d.smartplug", runLocally: true, 
+	definition(name: "Opti Power Outlet", namespace: "Outlet", author: "Murali Kesavan", mnmn: "zenForz", 
+    		vid: "generic-switch-power", ocfDeviceType: "oic.d.smartplug", runLocally: true, 
             minHubCoreVersion: '000.017.0012', executeCommandsLocally: true) {
 
 		// Capabilities
