@@ -26,7 +26,7 @@
 
 metadata {
 	definition(name: "uVDH", namespace: "Virtual", author: "Murali Kesavan",
-			mnmn: "geniHome", vid: "virtual-switch", 
+			mnmn: "zenForz/SmartThings", vid: "virtual-switch", 
             ocfDeviceType: "oic.d.virtualswitch", runLocally: true, 
             minHubCoreVersion: '000.017.0012', executeCommandsLocally: true) {	
 	    capability "Sensor"
